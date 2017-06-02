@@ -1,0 +1,8 @@
+Treasury Safety System is created by developing an embedded system based on Internet of Things Technology (IoT). This embedded system can be used for various applications like the home security system and with slight modifications in software coding according to the requirements.The presence of human body creates a sudden change in the IR profile of the surrounding that is sensed by the pyro electric sensor. When the microcontroller detects the sensor is triggered, it drives the python script and a email is sent to the authority notifying that the motion is detected and allow the security to take appropriate action.
+
+Steps:
+
+1)    Install Arduino Software.
+2)    Run the motion_detection file in the above software.
+3)    Run the python script "email_script.py" in cmd to receive notifications.
+
